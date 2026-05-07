@@ -1,0 +1,33 @@
+{
+  "_comentario": "Códigos do SGT/CNJ + palavras-chave para captura tema-amplo. Os códigos numéricos exatos do SGT podem ser preenchidos depois para refinar; enquanto isso, as palavras-chave fazem a busca por nome do assunto. Verifique e atualize em https://www.cnj.jus.br/sgt/.",
+
+  "codigos": [],
+
+  "palavras_chave": [
+    "FUNDEB",
+    "FPM",
+    "Fundo de Participação dos Municípios",
+    "Repartição Constitucional de Receitas",
+    "Repartição de Receitas",
+    "Royalties",
+    "CFEM",
+    "Compensação Financeira",
+    "ITR",
+    "IOF-Ouro",
+    "CIDE",
+    "Lei Kandir",
+    "ICMS Desonerado",
+    "IPI Exportação",
+    "Transferência Voluntária",
+    "Convênio",
+    "SIAFI",
+    "CAUC",
+    "Repetição de Indébito",
+    "Indébito Tributário",
+    "Compensação Tributária",
+    "Restituição Tributária",
+    "Crédito Tributário",
+    "PASEP",
+    "Contribuição Previdenciária"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "_comentario": "Classes processuais. Filtragem feita por nome (substring case-insensitive). Códigos do SGT podem ser adicionados depois para precisão.",
+
+  "incluir_palavras_chave": [
+    "Procedimento Comum",
+    "Mandado de Segurança",
+    "Ação Civil Pública",
+    "Ação Civil Originária",
+    "Arguição de Descumprimento",
+    "Embargos à Execução",
+    "Embargos de Declaração",
+    "Cumprimento de Sentença",
+    "Recurso Especial",
+    "Recurso Extraordinário",
+    "Agravo",
+    "Apelação"
+  ],
+
+  "excluir_palavras_chave": [
+    "Execução Fiscal",
+    "Carta Precatória",
+    "Carta de Ordem",
+    "Carta Rogatória"
+  ]
+}
