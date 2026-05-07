@@ -1,0 +1,46 @@
+name: Monitor diário município x União
+
+on:
+  schedule:
+    # 09:00 BRT = 12:00 UTC. O cron do GitHub Actions é em UTC.
+    # Brasil não tem horário de verão. Se voltar a ter, ajuste para "0 11 * * *" no verão.
+    - cron: "0 12 * * *"
+  workflow_dispatch:  # permite rodar manualmente pelo botão "Run workflow"
+
+permissions:
+  contents: write  # necessário para commitar state/reported.json
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Rodar monitor
+        env:
+          DATAJUD_API_KEY: ${{ secrets.DATAJUD_API_KEY }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+        run: python monitor.py
+
+      - name: Commitar estado de deduplicação
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state/reported.json || true
+          if ! git diff --cached --quiet; then
+            git commit -m "Atualiza state/reported.json [skip ci]"
+            git push
+          else
+            echo "Sem mudanças no estado — nada a commitar."
+          fi
