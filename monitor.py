@@ -50,8 +50,10 @@ SMTP_PORT = int(env("SMTP_PORT", required=False, default="587"))
 ENDPOINTS = {
     "TRF5": "https://api-publica.datajud.cnj.jus.br/api_publica_trf5/_search",
     "TRF4": "https://api-publica.datajud.cnj.jus.br/api_publica_trf4/_search",
-    "STF":  "https://api-publica.datajud.cnj.jus.br/api_publica_stf/_search",
     "STJ":  "https://api-publica.datajud.cnj.jus.br/api_publica_stj/_search",
+    # OBS: O STF não integra a base nacional do DataJud (Resolução CNJ 331/2020
+    # cobre apenas os tribunais do art. 92, II-VII da CF; STF é inciso I).
+    # Para monitorar o STF, será necessário integrar separadamente com o Push/STF.
 }
 
 HEADERS = {
@@ -146,7 +148,7 @@ def build_query(tribunal, since_date_iso, ibge_ranges, assuntos_cfg):
 
     return {
         "size": 100,
-        "sort": [{"@timestamp": {"order": "asc"}}, {"_id": {"order": "asc"}}],
+        "sort": [{"@timestamp": {"order": "asc"}}],
         "query": {"bool": {"filter": filters}},
     }
 
@@ -459,7 +461,7 @@ def render_email(buckets, stats, falhas):
     blocos = [
         f"<style>{CSS}</style>",
         f"<h1>Monitor Município x União — {hoje}</h1>",
-        '<div class="small">Teses tributárias e financeiras — recorte: PE, PB, RN, AL, RS + STF/STJ</div>',
+        '<div class="small">Teses tributárias e financeiras — recorte: PE, PB, RN, AL, RS + STJ</div>',
         '<div class="summary">',
         f'<span><b>{len(confirmados)}</b> confirmados</span>',
         f'<span><b>{len(provaveis)}</b> prováveis</span>',
@@ -564,7 +566,6 @@ def run():
     targets = [
         ("TRF5", ENDPOINTS["TRF5"], IBGE_RANGES_TRF5),
         ("TRF4", ENDPOINTS["TRF4"], IBGE_RANGES_TRF4),
-        ("STF",  ENDPOINTS["STF"],  None),
         ("STJ",  ENDPOINTS["STJ"],  None),
     ]
 
