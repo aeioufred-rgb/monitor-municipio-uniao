@@ -35,7 +35,13 @@ def env(name, required=True, default=None):
     v = os.environ.get(name, default)
     if required and not v:
         raise SystemExit(f"Variável de ambiente obrigatória não definida: {name}")
-    return v
+    if v is None:
+        return v
+    # Remove non-breaking spaces, espaços comuns, tabs e quebras de linha.
+    # Isto é importante: senhas de app do Gmail vêm com nbsp (\xa0) entre os
+    # blocos quando coladas via navegador, e o smtplib falha ao codificar.
+    sanitized = v.replace("\xa0", "").replace(" ", "").replace("\t", "").replace("\r", "").replace("\n", "")
+    return sanitized
 
 
 API_KEY = env("DATAJUD_API_KEY")
@@ -44,6 +50,16 @@ SMTP_PASS = env("SMTP_PASS")
 EMAIL_TO = env("EMAIL_TO")
 SMTP_HOST = env("SMTP_HOST", required=False, default="smtp.gmail.com")
 SMTP_PORT = int(env("SMTP_PORT", required=False, default="587"))
+
+# Diagnóstico (sem revelar valores secretos): tamanhos esperados
+# - DATAJUD_API_KEY: ~250 caracteres
+# - SMTP_USER: e-mail completo (>= 7 chars)
+# - SMTP_PASS: senha de app do Gmail são 16 caracteres SEM espaços
+# - EMAIL_TO: e-mail completo
+print(f"[diag] DATAJUD_API_KEY: {len(API_KEY)} chars")
+print(f"[diag] SMTP_USER: {SMTP_USER!r} ({len(SMTP_USER)} chars)")
+print(f"[diag] SMTP_PASS: {len(SMTP_PASS)} chars (esperado: 16 para senha de app Gmail)")
+print(f"[diag] EMAIL_TO: {EMAIL_TO!r} ({len(EMAIL_TO)} chars)")
 
 ENDPOINTS = {
     "TRF5": "https://api-publica.datajud.cnj.jus.br/api_publica_trf5/_search",
