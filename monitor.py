@@ -21,8 +21,6 @@ import time
 import smtplib
 import traceback
 from datetime import datetime, timedelta, timezone
-from email.mime.multipart import MIMEMultipart
-from email.mime.text import MIMEText
 from pathlib import Path
 
 import requests
@@ -504,7 +502,10 @@ def render_email(buckets, stats, falhas):
 # =============================================================================
 
 def send_email(subject, html_body):
-    msg = MIMEMultipart("alternative")
+    """Envia o e-mail usando EmailMessage (suporte nativo a UTF-8)."""
+    from email.message import EmailMessage
+
+    msg = EmailMessage()
     msg["Subject"] = subject
     msg["From"] = SMTP_USER
     msg["To"] = EMAIL_TO
@@ -512,8 +513,8 @@ def send_email(subject, html_body):
     plain = re.sub(r"<[^>]+>", " ", html_body)
     plain = re.sub(r"\s+", " ", plain).strip()
 
-    msg.attach(MIMEText(plain, "plain", "utf-8"))
-    msg.attach(MIMEText(html_body, "html", "utf-8"))
+    msg.set_content(plain)
+    msg.add_alternative(html_body, subtype="html")
 
     last_err = None
     for attempt in range(3):
@@ -521,7 +522,7 @@ def send_email(subject, html_body):
             with smtplib.SMTP(SMTP_HOST, SMTP_PORT, timeout=30) as s:
                 s.starttls()
                 s.login(SMTP_USER, SMTP_PASS)
-                s.sendmail(SMTP_USER, [EMAIL_TO], msg.as_string())
+                s.send_message(msg)
             print(f"E-mail enviado para {EMAIL_TO}")
             return
         except Exception as e:
