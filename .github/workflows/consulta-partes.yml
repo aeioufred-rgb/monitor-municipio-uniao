@@ -1,0 +1,32 @@
+name: Consulta pontual de partes (e-SAJ)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  consulta:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instala dependências
+        run: pip install requests beautifulsoup4
+
+      - name: Consulta e-SAJ
+        run: python scripts/consulta_partes_esaj.py
+
+      - name: Publica resultado como artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: partes-resultado
+          path: partes_resultado.json
+          if-no-files-found: ignore
