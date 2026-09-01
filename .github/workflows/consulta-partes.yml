@@ -1,0 +1,49 @@
+name: Consulta pontual de partes (e-SAJ)
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - claude/partes-advogados-processos-fz1e8o
+    paths:
+      - scripts/consulta_partes_esaj.py
+      - .github/workflows/consulta-partes.yml
+
+permissions:
+  contents: write
+
+jobs:
+  consulta:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instala dependências
+        run: pip install requests beautifulsoup4
+
+      - name: Consulta e-SAJ
+        run: python scripts/consulta_partes_esaj.py
+
+      - name: Publica resultado como artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: partes-resultado
+          path: partes_resultado.json
+          if-no-files-found: ignore
+
+      - name: Grava resultado no branch
+        if: always()
+        run: |
+          if [ -f partes_resultado.json ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add partes_resultado.json
+            git commit -m "Grava resultado da consulta de partes [skip ci]" || echo "nada a commitar"
+            git push
+          fi
