@@ -49740,24 +49740,3906 @@
   "grau": 2,
   "sistema": "cposg",
   "http": 200,
-  "metadados": {},
-  "partes": [],
-  "diagnostico": {
-   "titulo_pagina": "Portal de Serviços e-SAJ",
-   "inicio_texto": "Portal de Serviços e-SAJ Selecione o processo 2116789-77.2025.8.26.0000 2º Grau Julgado Agravo de Instrumento 17/04/2025 Incidentes, ações acidentais, recursos e execuções de sentenças(2) 50000 - Embargos de Declaração Cível\n                                \n                                    (Encerrado) 30/04/2025 50001 - Embargos de Declaração Cível\n                                \n             "
-  }
+  "ocorrencias_listadas": 3,
+  "metadados": {
+   "classeProcesso": "Agravo de Instrumento",
+   "assuntoProcesso": "DIREITO CIVIL - Empresas - Recuperação judicial e Falência",
+   "secaoProcesso": "Direito Privado 1",
+   "orgaoJulgadorProcesso": "2ª Câmara Reservada de Direito Empresarial",
+   "relatorProcesso": "GRAVA BRAZIL",
+   "situacaoProcesso": "Julgado",
+   "valorAcaoProcesso": "1.000,00"
+  },
+  "partes": [
+   {
+    "participacao": "Agravante",
+    "nome": "Hardball Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Carlos Eduardo Zavala"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Eric Morais Machado Cardoso"
+     }
+    ]
+   },
+   {
+    "participacao": "Agravante",
+    "nome": "Avalv Administradora de Bens Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Carlos Eduardo Zavala"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Eric Morais Machado Cardoso"
+     }
+    ]
+   },
+   {
+    "participacao": "Agravante",
+    "nome": "Mgv Gestão Empresarial Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Carlos Eduardo Zavala"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Eric Morais Machado Cardoso"
+     }
+    ]
+   },
+   {
+    "participacao": "Agravante",
+    "nome": "D.v.d. Representações e Empreendimentos Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Carlos Eduardo Zavala"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Eric Morais Machado Cardoso"
+     }
+    ]
+   },
+   {
+    "participacao": "Agravante",
+    "nome": "Vgb Participações Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Carlos Eduardo Zavala"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Eric Morais Machado Cardoso"
+     }
+    ]
+   },
+   {
+    "participacao": "Agravante",
+    "nome": "Anval Incorporações e Empreendimentos Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Carlos Eduardo Zavala"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Eric Morais Machado Cardoso"
+     }
+    ]
+   },
+   {
+    "participacao": "Agravado",
+    "nome": "O Juizo",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Brookfield Brasil Shopping Centers Ltda",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Fundação dos Economiários Federais - Funcef",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Guantera Empreendimentos e Participações Ltda",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Administradora Shopping Patio Paulista Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Humberto Rossetti Portela"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Humberto Rossetti Portela"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Igor Goes Lobato"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Spe Mônaco Participações S.a",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Administradora Natal Shopping Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Humberto Rossetti Portela"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Humberto Rossetti Portela"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Igor Goes Lobato"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Trench, Rossi e Watanabe Advogados",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Marcio de Souza Polto"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Gledson Marques de Campos"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Apa Confecções Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Jean Cristopher Gonçalves de Melo"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Totvs S/A",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Fernando Denis Martins"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Catarina Bezerra Alves"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Catarina Bezerra Alves"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Condomínio Pro Indiviso do Shopping Center Recife",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Pedro Menezes Dantas"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Banco Tricury S A",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Carlos Eduardo Lopes"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Marco de Albuquerque da Graça E Costa"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Telefônica Brasil S.a",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Flavio Mendonça de Sampaio Lopes"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Nova Srm Administração de Recursos e Financeiros S.a",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Cristiano Trizolini"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Fabio de Alencar Karamm"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Itaú Unibanco S/A",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Paulo Roberto Joaquim dos Reis"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Daniel de Souza"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Estado de São Paulo",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Companhia Zaffari Comércio e Industria",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Patrícia Watanabe"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Guilherme Queirolo Feijó"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "8-8 Confecções Eireli",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Marcio de Souza Polto"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Gledson Marques de Campos"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Smart & Charm Comercio Exterior Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Rodrigo Pereira Lira"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Daniela Martin Lopes Oliveira"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Daniel Dorsi Pereira"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Camila Borgonovi Silva Barbi"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Condomínio Shopping Abc",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Humberto Rossetti Portela"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Humberto Rossetti Portela"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Igor Goes Lobato"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Linx Sistemas e Consultoria Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Eduardo Chalfin"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Gustavo Guerra Fernandes"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Art Mille Artefatos de Couro Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Ricardo Ferreira Cassilhas"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Zizical Industria e Comercio de Calçados Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Ricardo Ferreira Cassilhas"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Rodi Comércio e Confecção de Embalagens Eirele-me",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Vagner Aparecido Alberto"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Caio Barroso Alberto"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Condominio Dp Patio Brasil Shopping",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Ivo Teixeira Gico Junior"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Multi-Brasil Indústria e Comércio Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Mauro Yutaka Aida"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Cristian Gaddini Munhoz",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Cristian Gaddini Munhoz"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Governo do Distrito Federal",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Rodrigo Alves Chaves"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Pricewaterhousecoopers Corporate Finance & Recovery Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Alessandra Pires Fiche de Oliveira"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "São Joaquim Administração e Participação Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Ricardo Negrao"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Procuradoria do Município de Jundiaí",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Andre Lisa Biassi"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Procuradoria Geral do Estado do Rio Grande do Sul",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "João Carlos Sejanes Fabres"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Consórcio Empreendedor Shopping Granja Viana",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Ricardo Negrao"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Erivaldo Mello de Oliveira Lima",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Igor Goes Lobato"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Shopping São José Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Benoit Scandelari Bussmann"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Banco Bradesco S/A",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Marcio Koji Oya"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Claro S/A.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Jose Henrique Cançado Gonçalves"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Município de Ribeirão Preto",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Sumaia Popiolek Sfredo"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Sergio Vieira Miranda da Silva"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Lobo e Lira ADVS.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Sergio Vieira Miranda da Silva"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Paulo Ferreira Chor"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Municipio de Natal",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Priscilla Maria Martins Pessoa Guerra"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Maxinvestor Fundo de Investimento Em Direitos Creditorios Nao Padronizados Multissetorial Lp",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Mauro Wilson Alves da Cunha"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Mauro Wilson Alves da Cunha"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Lume Serv. e Eng. Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Felipe Alves Moreira"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Estado de Minas Gerais",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Sarah Pedrosa de Camargos Manna"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Mph Empreendimentos Imobiliários Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Helio Pinto Ribeiro Filho"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Wander de Paula Rocha Junior"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Mc Mall Properties S/A",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Jailson Vieira de Souza Alves",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Ligia Maria Caruso Thomaz da Silva"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Agti Empreendimentos",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Guilherme Guaitolini"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Guilherme Guaitolini"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Rodi Com. e Conf. de Embalagens Eireli",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Caio Barroso Alberto"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Alex Moreira dos Santos"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Shopping Centers Iguatemi S/A",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Priscila Kelly Braga Brasileiro"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Bárbara Ellen Vasconcelos Nogueira"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Visel Vig. e Seg. Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Nelson Lombardi Junior"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Estado de Pernambuco",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Luciana Espíndola Azevedo"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Elaine Bortoleti de Lima",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Diego Gonçalves de Abreu"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Multiplan Empreendimentos Imobiliários S.a.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Helio Pinto Ribeiro Filho"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Wander de Paula Rocha Junior"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Consórcio Empreendedor do Shopping Patio Higienópolis",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Rocha, Scuracchio e Andreoli Sociedade de Advogados",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Reinaldo de Oliveira Rocha"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "André Andreoli"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Sc2 Shopping Rio Poty Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Alberto Elias Hidd Neto"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Lucas de Melo Souza Veras"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Cond. Shopping Center Ibirapuera e outra",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Dalter Mallet Monteiro de Oliveira"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Roberto Bernardes de Carvalho Filho"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Centrais Eletricas do Pará S/A - Celpa",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Rogerio Zampier Nicola"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Município do Rio de Janeiro",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Cláudia Maria Monteiro de Castro Sternick"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Linx Sistemas e Cons. Ltda. Soc. Advogados: Siqueira Castro Advogados",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Gustavo Gonçalves Gomes"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Ramayanne da Silva Bicalho",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Ramayanne da Silva Bicalho"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Flávia Pollyanna Oliveira Sampaio",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Ramayanne da Silva Bicalho"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Escritório Central de Arrec. e Dist.-Ecad",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Rodrigo Kopke Salinas"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Juliana Santos Vilela"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Luiza Edna Ferreira Soares",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Cecilia Soares Campos"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Palladium ADM. de Shopping Centers Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Michel Guerios Netto"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Michel Guerios Netto"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Cond. Civil do Shop. Center Tacaruna",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Anne Karenine Santa Cruz"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Cons. Emp. do Shopping Campo Grande - Fase",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Letícia Garcia Cunha"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Paissandu Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Marcelo Godoy da Cunha Magalhães"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "São Joaquim S/A Adm. e Part.(prop.do Shopping Sp Market)",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Ricardo Negrao"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Companhia Metrô Norte",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Thaise Marcele Rosendo"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Five Jeans Conf. Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Claudia Yu Watanabe"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Light Serv. de Elet. S.A.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Gustavo Antonio Feres Paixão"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "IDH Ind. e Com. de Roupas Ltda.",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Mac Clem Ind. e Com. de Conf. Ltda.",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Marcolin Indústria Têxtil Ltda",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Textil Jurua Eireli",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Cotton Star Industrial Ltda. – Atual Denominação de Cotton Star Confecções Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Isocley Bossi"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Isla Confecções e Comércio de Roupas Ltda.",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Cond. do Bourbon São Paulo",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Patrícia Watanabe"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Mc & Mc Camisaria Eirelli",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Cristina Taddei Herculano"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Fábio de Mello Pellicciari"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Fundo de Inv. em Dir. Cred. da Indústria Exodus Institucional",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Cristiano Trizolini"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Fabio de Alencar Karamm"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Viviane Silva Batista",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Gicelle Barbosa Rebollo"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Air Clean Ar Condicionado e Refrigeração Ltda. – Me",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Danilo Franco de Oliveira Pioli"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Rodrigo Garceis Rodrigues"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Center Norte Sa.construcao,empreendimentos,adm. e Part.",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Daniela Biazzo Melis Kauffmann"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Maria Carolina da Silva Miranda",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Maisa Oviedo Milandri"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Carla Cristina Alves de Almeida",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Alessandro Anilton Maia Nonato"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Ert Confecções Ltda Epp",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Desiree Sanchez Del Castillo Bravo de Chaby"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Montserrat Sanches Del Castillo",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Jundiaí Shopping Center Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Helio Pinto Ribeiro Filho"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Wander de Paula Rocha Junior"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Pires, Fabiano e Marques Soc. de ADVS.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Jean Dornelles"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Jean Dornelles"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Laura da Silva"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Blue Bay Comercial Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Alberto Diwan"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "MPH Emp. Imob. Ltda. e outra",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Wander de Paula Rocha Junior"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Bruna Gomes dos Santos"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Marcos Venicio dos Santos Borges",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Ygor Roger Costa de Oliveira"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Marcos Venicio dos Santos Borges",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Ygor Roger Costa de Oliveira"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Riomar Shopping Fortaleza S/A",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Beatriz Chaves Bittencourt de Albuquerque"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Beatriz Chaves Bittencourt de Albuquerque"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Gráfica Kratos Ltda - M.e.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Michael Simon Herzig"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Rocha, Scuracchio e Andreoli Soc. de ADVS",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Reinaldo de Oliveira Rocha"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "André Andreoli"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Mario Henrique Cardoso Silva",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Alessandro Anilton Maia Nonato"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Rafael Ribeiro Cunha",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Marleide Tavares Viana"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Cristiano Carvalho Dantas da Silva",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Marleide Tavares Viana"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Cons. Empreend. do Shopping Granja Vianna",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Ricardo Negrao"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Ralm Indústria e Comércio de Malhas Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Alessandra Machado de Andrade Zuin"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Confecções Righeto Pastre Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Alessandra Machado de Andrade Zuin"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Maria Luciana Alves da Silva",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Adson José Alves de Farias"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Michel Oliveira de Souza",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Alessandro Anilton Maia Nonato"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Carla Cristina Alves de Almeida",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Alessandro Anilton Maia Nonato"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Mario Henrique Cardoso Silva",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Alessandro Anilton Maia Nonato"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Trend For You Indústria e Comércio de Vestuários Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Ricardo Dias Trotta"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Multiplan Empreendimentos Imobiliários S/a, Mph Empreendimentos Imobiliários Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Wander de Paula Rocha Junior"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Jundiai Shopping Center Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Wander de Paula Rocha Junior"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Caputo, Bastos e Serra Advogados",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Gustavo Henrique Caputo Bastos"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Pwc Serviços Corporativos Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Heloise Moraes Souza"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Alessandra Pires Fiche de Oliveira"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Nova Galleria Emp. Imob. Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Sergio Vieira Miranda da Silva"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Gabriela Cristina Monteiro"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Denally Cesar Silva de Lima",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "José Haran de Brito Veiga Pessoa"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Daniel José de Brito Veiga Pessoa"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "RSM Brasil Cons. Assoc. Soc. Simples Ltda.",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Cond. Itaúpower Shopping",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "João Gilberto Freire Goulart"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Cristiano Silva Colepicolo"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Cristiano Silva Colepicolo"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Elisete do Carmo Barbosa",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Rodrigo de Barros Vedana"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Ligia Maria Caruso Thomaz da Silva"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Oi S/a.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Rafael Bittencourt Licurci de Oliveira"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Fernanda Santos Brusau"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Heloisa Costa da Silva",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Rodrigo VIeira de Mello",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Evandro Luis Luccarelli Forti"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Zilla Maria Torres"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Mayrla Cidrack do Vale Lucena Alves",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Elke Castelo Branco Lima"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Bruna Lourena Mendes do Nascimento",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Elke Castelo Branco Lima"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Gislane Nobre Rodrigues",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Elke Castelo Branco Lima"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Kerlison Italo Silva",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Marcos Alcindo de Godoi Moraes"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Jefferson Ithamar Fernandes Franco",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Eduardo Silveira Frade"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Cubo Mentoring Treinamento e Consultoria Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Renata Maria Baptista Cavalcante"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Renata Maria Baptista Cavalcante"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Jaqueline Nascimento Sampaio",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Priscila Polarini Ruiz"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Renabian Prestadora de Serviços Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Gisele Cristina Dias Moraes"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Rssc Shopping Centers S.a.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Diogo Brito Camara Gonçalves"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Shopping Centers Iguatemi S/A",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Adna Martins Santos"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Isabela Cristina Silva"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Maria José Pereira",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Raquel Carvalho Menezes"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Ibanez de Oliveira",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Raquel Carvalho Menezes"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Karen Cristiane Grisotto",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Raquel Carvalho Menezes"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Joao Marcelo Silva Navarro",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "John Patrick Brennan"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Marcos Rollo Niza"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Equatorial Maranhão Dist. de Energia S/A.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Rogerio Zampier Nicola"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Gabrielly de Souza Modesto",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Raquel Marcos Ferrari"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Marina Gomes da Silva Pardinho Silveira"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "RSM Brasil Auditores Independentes S.A.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Márcio Muneyoshi Mori"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Silvia Maria Porto"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Jaqueline Nascimento Sampaio",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Priscila Polarini Ruiz"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Carolina Fernanda de Moura",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Vilja Marques Asse"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "O Município de São José do Rio Preto",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Daniele Barbosa Rebello",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Aguinaldo Freitas Correia"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Carolini Alves de Souza Siqueira",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Donizeti Aparecido dos Santos"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Brenda Galindo Santos"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Sindicato dos Empregados no Comércio de São Paulo",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Robson Eduardo Andrade Rios"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Marcello D`aguiar"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Luciane Jacopetti Ribeiro Massola",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Vinicius Bichuette Ribeiro"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Carolina Alves de Souza Siqueira",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Donizeti Aparecido dos Santos"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Brenda Galindo Santos"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Basilio Sociedade de Advogados",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "João Augusto Basilio"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Bruna Cristina Rodrigues Neto",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Ricardo Grossi Rocha"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Matheus de Barros Rodrigues Sales Bessa"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Renata Gomes de Sousa",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Abadio Ferreira da Silva"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Samira de Castro"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Deloitte Touche Tohmatsu Consultores Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Luciano Wolf de Almeida"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Claudio Mauro Henrique Daólio"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Bruna Cristina Rodrigues Neto",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Ricardo Grossi Rocha"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Matheus de Barros Rodrigues Sales Bessa"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Renata Gomes de Sousa",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Abadio Ferreira da Silva"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Samira de Castro"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Condomínio Civil do Shopping Center Tacaruna",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Anne Karenine Santa Cruz"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Rosane Correia de Lima Durão"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Cons. Emp. do Shopping Pátio Higienópolis",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Ronny Hosse Gatto"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Carlos Eduardo Martinussi"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Brenda Maria Almeida dos Anjos",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Sara Caroline de Andrade Costa"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Deise Cristina Gomes",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Sara Caroline de Andrade Costa"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Idália Pereira de Jesus",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Jonas das Neves Pereira",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Leonardo Henrique Montalvão de Souza",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Sara Caroline de Andrade Costa"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Milena Cristina da Silva",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Thallyta Raphaella da Silva",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Sara Caroline de Andrade Costa"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Severina Elania Victor da Silva",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Nilson Mineo Morisava"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Antonia Gomes da Silva Valadares",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Carmen Silvia Santos de Campos"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Daniel Morais Martins"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Ribeiro Filho, Pires Oliveira Dias e Freire Advogados",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Wander de Paula Rocha Junior"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Unp Negócios e Participações Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Gabriel Pereira Garcia"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Francisco Matias daSilva Junior",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Abadio Ferreira da Silva"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Samira de Castro"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Victor Soares da Silva",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Leonardo Eugenio Simões de Lima"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Estado do Rio de Janeiro",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Procuradoria Geral do Estado do Paraná",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Ageu Lima de Souza",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Antônio Augusto Martins Manhães"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Estado de Goiás",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "SC2 Maranhão LOc. de Centros Comerciais S.A.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Jorge Rachid Mubarack Maluf Filho"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Jose Luiz Fernandes Gama"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Antonia Gomes da Silva Valadares",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Carmen Silvia Santos de Campos"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Daniel Morais Martins"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Excelia Consultoria Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Maria Isabel Vergueiro de Almeida Fontana"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Joao Marcelo Silva Navarro",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "John Patrick Brennan"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Marcos Rollo Niza"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Amanda Centorbi Correa",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Cristiane Heredia Sousa"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Flaviane Carvalho Martini",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Cristiane Heredia Sousa"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Talita Gonçalves Lima",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Cristiane Heredia Sousa"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Lais Vicente Assenjo",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Cristiane Heredia Sousa"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "União Federal - Prfn",
+    "representantes": []
+   }
+  ]
  },
  {
   "numero": "2215431-85.2025.8.26.0000",
   "grau": 2,
   "sistema": "cposg",
   "http": 200,
-  "metadados": {},
-  "partes": [],
-  "diagnostico": {
-   "titulo_pagina": "Portal de Serviços e-SAJ",
-   "inicio_texto": "Portal de Serviços e-SAJ Selecione o processo 2215431-85.2025.8.26.0000 2º Grau Julgado Agravo de Instrumento 11/07/2025 Incidentes, ações acidentais, recursos e execuções de sentenças(1) 50000 - Embargos de Declaração Cível\n                                \n                                    (Encerrado) 09/12/2025 Menu e-SAJ Tribunal de Justiça do Estado de São Paulo Minha conta OAB: Meu perfil C"
-  }
+  "ocorrencias_listadas": 2,
+  "metadados": {
+   "classeProcesso": "Agravo de Instrumento",
+   "assuntoProcesso": "DIREITO CIVIL - Empresas - Recuperação judicial e Falência",
+   "secaoProcesso": "Direito Privado 1",
+   "orgaoJulgadorProcesso": "2ª Câmara Reservada de Direito Empresarial",
+   "relatorProcesso": "GRAVA BRAZIL",
+   "situacaoProcesso": "Julgado",
+   "valorAcaoProcesso": "456.880.774,00"
+  },
+  "partes": [
+   {
+    "participacao": "Agravante",
+    "nome": "Hardball Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Carlos Eduardo Zavala"
+     }
+    ]
+   },
+   {
+    "participacao": "Agravante",
+    "nome": "Avalv Administradora de Bens Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Carlos Eduardo Zavala"
+     }
+    ]
+   },
+   {
+    "participacao": "Agravante",
+    "nome": "Mgv Gestão Empresarial Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Carlos Eduardo Zavala"
+     }
+    ]
+   },
+   {
+    "participacao": "Agravante",
+    "nome": "D.v.d. Representações e Empreendimentos Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Carlos Eduardo Zavala"
+     }
+    ]
+   },
+   {
+    "participacao": "Agravante",
+    "nome": "Vgb Participações Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Carlos Eduardo Zavala"
+     }
+    ]
+   },
+   {
+    "participacao": "Agravante",
+    "nome": "Anval Incorporações e Empreendimentos Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Carlos Eduardo Zavala"
+     }
+    ]
+   },
+   {
+    "participacao": "Agravado",
+    "nome": "O Juízo",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Brookfield Brasil Shopping Centers Ltda",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Fundação dos Economiários Federais - Funcef",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Guantera Empreendimentos e Participações Ltda",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Administradora Shopping Patio Paulista Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Humberto Rossetti Portela"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Humberto Rossetti Portela"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Igor Goes Lobato"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Spe Mônaco Participações S.a",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Administradora Natal Shopping Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Humberto Rossetti Portela"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Humberto Rossetti Portela"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Igor Goes Lobato"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Trench, Rossi e Watanabe Advogados",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Marcio de Souza Polto"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Gledson Marques de Campos"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Apa Confecções Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Jean Cristopher Gonçalves de Melo"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Totvs S/A",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Fernando Denis Martins"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Catarina Bezerra Alves"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Catarina Bezerra Alves"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Condomínio Pro Indiviso do Shopping Center Recife",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Pedro Menezes Dantas"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Banco Tricury S A",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Carlos Eduardo Lopes"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Marco de Albuquerque da Graça E Costa"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Telefônica Brasil S.a",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Flavio Mendonça de Sampaio Lopes"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Nova Srm Administração de Recursos e Financeiros S.a",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Cristiano Trizolini"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Fabio de Alencar Karamm"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Itaú Unibanco S/A",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Paulo Roberto Joaquim dos Reis"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Daniel de Souza"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Estado de São Paulo",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Companhia Zaffari Comércio e Industria",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Patrícia Watanabe"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Guilherme Queirolo Feijó"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "8-8 Confecções Eireli",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Marcio de Souza Polto"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Gledson Marques de Campos"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Smart & Charm Comercio Exterior Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Rodrigo Pereira Lira"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Daniela Martin Lopes Oliveira"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Daniel Dorsi Pereira"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Camila Borgonovi Silva Barbi"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Condomínio Shopping Abc",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Humberto Rossetti Portela"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Humberto Rossetti Portela"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Igor Goes Lobato"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Linx Sistemas e Consultoria Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Eduardo Chalfin"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Gustavo Guerra Fernandes"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Art Mille Artefatos de Couro Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Ricardo Ferreira Cassilhas"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Zizical Industria e Comercio de Calçados Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Ricardo Ferreira Cassilhas"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Rodi Comércio e Confecção de Embalagens Eirele-me",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Vagner Aparecido Alberto"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Caio Barroso Alberto"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Condominio Dp Patio Brasil Shopping",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Ivo Teixeira Gico Junior"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Multi-Brasil Indústria e Comércio Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Mauro Yutaka Aida"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Cristian Gaddini Munhoz",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Cristian Gaddini Munhoz"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Governo do Distrito Federal",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Rodrigo Alves Chaves"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Pricewaterhousecoopers Corporate Finance & Recovery Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Alessandra Pires Fiche de Oliveira"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "São Joaquim Administração e Participação Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Ricardo Negrao"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Procuradoria do Município de Jundiaí",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Andre Lisa Biassi"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Procuradoria Geral do Estado do Rio Grande do Sul",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "João Carlos Sejanes Fabres"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Consórcio Empreendedor Shopping Granja Viana",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Ricardo Negrao"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Erivaldo Mello de Oliveira Lima",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Igor Goes Lobato"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Shopping São José Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Benoit Scandelari Bussmann"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Banco Bradesco S/A",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Marcio Koji Oya"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Claro S/A.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Jose Henrique Cançado Gonçalves"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Município de Ribeirão Preto",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Sumaia Popiolek Sfredo"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Sergio Vieira Miranda da Silva"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Lobo e Lira ADVS.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Sergio Vieira Miranda da Silva"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Paulo Ferreira Chor"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Municipio de Natal",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Priscilla Maria Martins Pessoa Guerra"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Maxinvestor Fundo de Investimento Em Direitos Creditorios Nao Padronizados Multissetorial Lp",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Mauro Wilson Alves da Cunha"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Mauro Wilson Alves da Cunha"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Lume Serv. e Eng. Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Felipe Alves Moreira"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Estado de Minas Gerais",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Sarah Pedrosa de Camargos Manna"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Mph Empreendimentos Imobiliários Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Helio Pinto Ribeiro Filho"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Wander de Paula Rocha Junior"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Mc Mall Properties S/A",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Jailson Vieira de Souza Alves",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Ligia Maria Caruso Thomaz da Silva"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Agti Empreendimentos",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Guilherme Guaitolini"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Guilherme Guaitolini"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Rodi Com. e Conf. de Embalagens Eireli",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Caio Barroso Alberto"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Alex Moreira dos Santos"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Shopping Centers Iguatemi S/A",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Priscila Kelly Braga Brasileiro"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Bárbara Ellen Vasconcelos Nogueira"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Visel Vig. e Seg. Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Nelson Lombardi Junior"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Estado de Pernambuco",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Luciana Espíndola Azevedo"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Elaine Bortoleti de Lima",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Diego Gonçalves de Abreu"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Multiplan Empreendimentos Imobiliários S.a.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Helio Pinto Ribeiro Filho"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Wander de Paula Rocha Junior"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Consórcio Empreendedor do Shopping Patio Higienópolis",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Rocha, Scuracchio e Andreoli Sociedade de Advogados",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Reinaldo de Oliveira Rocha"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "André Andreoli"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Sc2 Shopping Rio Poty Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Alberto Elias Hidd Neto"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Lucas de Melo Souza Veras"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Cond. Shopping Center Ibirapuera e outra",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Dalter Mallet Monteiro de Oliveira"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Roberto Bernardes de Carvalho Filho"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Centrais Eletricas do Pará S/A - Celpa",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Rogerio Zampier Nicola"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Município do Rio de Janeiro",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Cláudia Maria Monteiro de Castro Sternick"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Ramayanne da Silva Bicalho",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Ramayanne da Silva Bicalho"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Flávia Pollyanna Oliveira Sampaio",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Ramayanne da Silva Bicalho"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Escritório Central de Arrec. e Dist.-Ecad",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Rodrigo Kopke Salinas"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Juliana Santos Vilela"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Luiza Edna Ferreira Soares",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Cecilia Soares Campos"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Palladium ADM. de Shopping Centers Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Michel Guerios Netto"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Michel Guerios Netto"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Cond. Civil do Shop. Center Tacaruna",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Anne Karenine Santa Cruz"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Cons. Emp. do Shopping Campo Grande - Fase",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Letícia Garcia Cunha"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Paissandu Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Marcelo Godoy da Cunha Magalhães"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "São Joaquim S/A Adm. e Part.(prop.do Shopping Sp Market)",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Ricardo Negrao"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Companhia Metrô Norte",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Thaise Marcele Rosendo"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Five Jeans Conf. Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Claudia Yu Watanabe"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Light Serv. de Elet. S.A.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Gustavo Antonio Feres Paixão"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "IDH Ind. e Com. de Roupas Ltda.",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Mac Clem Ind. e Com. de Conf. Ltda.",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Marcolin Indústria Têxtil Ltda",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Textil Jurua Eireli",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Cotton Star Industrial Ltda. – Atual Denominação de Cotton Star Confecções Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Isocley Bossi"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Isla Confecções e Comércio de Roupas Ltda.",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Cond. do Bourbon São Paulo",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Patrícia Watanabe"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Mc & Mc Camisaria Eirelli",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Cristina Taddei Herculano"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Fábio de Mello Pellicciari"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Fundo de Inv. em Dir. Cred. da Indústria Exodus Institucional",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Cristiano Trizolini"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Fabio de Alencar Karamm"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Viviane Silva Batista",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Gicelle Barbosa Rebollo"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Air Clean Ar Condicionado e Refrigeração Ltda. – Me",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Danilo Franco de Oliveira Pioli"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Rodrigo Garceis Rodrigues"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Center Norte Sa.construcao,empreendimentos,adm. e Part.",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Daniela Biazzo Melis Kauffmann"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Maria Carolina da Silva Miranda",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Maisa Oviedo Milandri"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Ert Confecções Ltda Epp",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Desiree Sanchez Del Castillo Bravo de Chaby"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Desiree Sanchez Del Castillo Bravo de Chaby"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Montserrat Sanches Del Castillo",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Jundiaí Shopping Center Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Helio Pinto Ribeiro Filho"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Wander de Paula Rocha Junior"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Pires, Fabiano e Marques Soc. de ADVS.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Jean Dornelles"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Jean Dornelles"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Laura da Silva"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Blue Bay Comercial Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Alberto Diwan"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "MPH Emp. Imob. Ltda. e outra",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Wander de Paula Rocha Junior"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Bruna Gomes dos Santos"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Riomar Shopping Fortaleza S/A",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Beatriz Chaves Bittencourt de Albuquerque"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Beatriz Chaves Bittencourt de Albuquerque"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Gráfica Kratos Ltda - M.e.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Michael Simon Herzig"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Rocha, Scuracchio e Andreoli Soc. de ADVS",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Reinaldo de Oliveira Rocha"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "André Andreoli"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Rafael Ribeiro Cunha",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Marleide Tavares Viana"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Cristiano Carvalho Dantas da Silva",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Marleide Tavares Viana"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Cons. Empreend. do Shopping Granja Vianna",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Ricardo Negrao"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Ralm Indústria e Comércio de Malhas Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Alessandra Machado de Andrade Zuin"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Confecções Righeto Pastre Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Alessandra Machado de Andrade Zuin"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Maria Luciana Alves da Silva",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Adson José Alves de Farias"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Michel Oliveira de Souza",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Alessandro Anilton Maia Nonato"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Trend For You Indústria e Comércio de Vestuários Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Ricardo Dias Trotta"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "MULTIPLAN EMPREENDIMENTOS IMOBILIÁRIOS S/A, MPH EMPREENDIMENTOS IMOBILIÁRIOS LTDA",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Wander de Paula Rocha Junior"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "JUNDIAI SHOPPING CENTER LTDA",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Wander de Paula Rocha Junior"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Caputo, Bastos e Serra Advogados",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Gustavo Henrique Caputo Bastos"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Pwc Serviços Corporativos Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Heloise Moraes Souza"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Alessandra Pires Fiche de Oliveira"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Nova Galleria Emp. Imob. Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Sergio Vieira Miranda da Silva"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Gabriela Cristina Monteiro"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Denally Cesar Silva de Lima",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "José Haran de Brito Veiga Pessoa"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Daniel José de Brito Veiga Pessoa"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "RSM Brasil Cons. Assoc. Soc. Simples Ltda.",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Cond. Itaúpower Shopping",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "João Gilberto Freire Goulart"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Cristiano Silva Colepicolo"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Cristiano Silva Colepicolo"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Elisete do Carmo Barbosa",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Rodrigo de Barros Vedana"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Ligia Maria Caruso Thomaz da Silva"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Oi S/a.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Rafael Bittencourt Licurci de Oliveira"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Fernanda Santos Brusau"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Heloisa Costa da Silva",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Rodrigo VIeira de Mello",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Evandro Luis Luccarelli Forti"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Zilla Maria Torres"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Mayrla Cidrack do Vale Lucena Alves",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Elke Castelo Branco Lima"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Bruna Lourena Mendes do Nascimento",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Elke Castelo Branco Lima"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Gislane Nobre Rodrigues",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Elke Castelo Branco Lima"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Kerlison Italo Silva",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Marcos Alcindo de Godoi Moraes"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Jefferson Ithamar Fernandes Franco",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Eduardo Silveira Frade"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Cubo Mentoring Treinamento e Consultoria Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Renata Maria Baptista Cavalcante"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Renata Maria Baptista Cavalcante"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Renabian Prestadora de Serviços Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Gisele Cristina Dias Moraes"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Rssc Shopping Centers S.a.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Diogo Brito Camara Gonçalves"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "SHOPPING CENTERS IGUATEMI S/A",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Adna Martins Santos"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Isabela Cristina Silva"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Maria José Pereira",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Raquel Carvalho Menezes"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Ibanez de Oliveira",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Raquel Carvalho Menezes"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Karen Cristiane Grisotto",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Raquel Carvalho Menezes"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Equatorial Maranhão Dist. de Energia S/A.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Rogerio Zampier Nicola"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Gabrielly de Souza Modesto",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Raquel Marcos Ferrari"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Marina Gomes da Silva Pardinho Silveira"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "RSM Brasil Auditores Independentes S.A.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Márcio Muneyoshi Mori"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Silvia Maria Porto"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Carolina Fernanda de Moura",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Vilja Marques Asse"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "O Município de São José do Rio Preto",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Daniele Barbosa Rebello",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Aguinaldo Freitas Correia"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Carolini Alves de Souza Siqueira",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Donizeti Aparecido dos Santos"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Brenda Galindo Santos"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Sindicato dos Empregados no Comércio de São Paulo",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Robson Eduardo Andrade Rios"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Marcello D`aguiar"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Luciane Jacopetti Ribeiro Massola",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Vinicius Bichuette Ribeiro"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Carolina Alves de Souza Siqueira",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Donizeti Aparecido dos Santos"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Brenda Galindo Santos"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Basilio Sociedade de Advogados",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "João Augusto Basilio"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Deloitte Touche Tohmatsu Consultores Ltda. Invtante: Waderson Mergulhão",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Luciano Wolf de Almeida"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Claudio Mauro Henrique Daólio"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Condomínio Civil do Shopping Center Tacaruna",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Anne Karenine Santa Cruz"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Rosane Correia de Lima Durão"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Cons. Emp. do Shopping Pátio Higienópolis",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Ronny Hosse Gatto"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Carlos Eduardo Martinussi"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Brenda Maria Almeida dos Anjos",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Sara Caroline de Andrade Costa"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Deise Cristina Gomes",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Sara Caroline de Andrade Costa"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Idália Pereira de Jesus",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Jonas das Neves Pereira",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Leonardo Henrique Montalvão de Souza",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Sara Caroline de Andrade Costa"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Milena Cristina da Silva",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Thallyta Raphaella da Silva",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Sara Caroline de Andrade Costa"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Severina Elania Victor da Silva",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Nilson Mineo Morisava"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Ribeiro Filho, Pires Oliveira Dias e Freire Advogados",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Wander de Paula Rocha Junior"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Unp Negócios e Participações Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Gabriel Pereira Garcia"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Francisco Matias daSilva Junior",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Abadio Ferreira da Silva"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Samira de Castro"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Victor Soares da Silva",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Leonardo Eugenio Simões de Lima"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Estado do Rio de Janeiro",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Procuradoria Geral do Estado do Paraná",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Ageu Lima de Souza",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Antonio Augusto Martins Manhaes"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Estado de Goiás",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "SC2 Maranhão LOc. de Centros Comerciais S.A.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Jorge Rachid Mubarack Maluf Filho"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Jose Luiz Fernandes Gama"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Excelia Consultoria Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Maria Isabel Vergueiro de Almeida Fontana"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Amanda Centorbi Correa",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Cristiane Heredia Sousa"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Flaviane Carvalho Martini",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Cristiane Heredia Sousa"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Talita Gonçalves Lima",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Cristiane Heredia Sousa"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Lais Vicente Assenjo",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Cristiane Heredia Sousa"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "União Federal - Prfn",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Kilty Bag Confecções de Couro Ltda. Soc. Advogados: Diego de Oliveira Camara",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Bruno Cezario Alves"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Nildo Barbosa Silva",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Elina Alves da Silveira Tobias"
+     }
+    ]
+   }
+  ]
  },
  {
   "numero": "2376795-03.2024.8.26.0000",
@@ -50059,11 +53941,2016 @@
   "grau": 2,
   "sistema": "cposg",
   "http": 200,
-  "metadados": {},
-  "partes": [],
-  "diagnostico": {
-   "titulo_pagina": "Portal de Serviços e-SAJ",
-   "inicio_texto": "Portal de Serviços e-SAJ Selecione o processo 2401598-16.2025.8.26.0000 2º Grau Julgado Agravo de Instrumento 19/12/2025 Incidentes, ações acidentais, recursos e execuções de sentenças(3) 50000 - Agravo Interno Cível\n                                \n                                    (Julgado) 13/02/2026 50002 - Embargos de Declaração Cível\n                                \n                       "
-  }
+  "ocorrencias_listadas": 4,
+  "metadados": {
+   "classeProcesso": "Agravo de Instrumento",
+   "assuntoProcesso": "DIREITO CIVIL - Empresas - Recuperação judicial e Falência",
+   "secaoProcesso": "Direito Privado 1",
+   "orgaoJulgadorProcesso": "2ª Câmara Reservada de Direito Empresarial",
+   "relatorProcesso": "GRAVA BRAZIL",
+   "situacaoProcesso": "Julgado",
+   "valorAcaoProcesso": "456.880.774,00"
+  },
+  "partes": [
+   {
+    "participacao": "Agravante",
+    "nome": "Hardball Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Carlos Eduardo Zavala"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Verediana Patricia Sia da Silva"
+     }
+    ]
+   },
+   {
+    "participacao": "Agravante",
+    "nome": "Avalv Administradora de Bens Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Carlos Eduardo Zavala"
+     }
+    ]
+   },
+   {
+    "participacao": "Agravante",
+    "nome": "Mgv Gestão Empresarial Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Carlos Eduardo Zavala"
+     }
+    ]
+   },
+   {
+    "participacao": "Agravante",
+    "nome": "D.v.d. Representações e Empreendimentos Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Carlos Eduardo Zavala"
+     }
+    ]
+   },
+   {
+    "participacao": "Agravante",
+    "nome": "Vgb Participações Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Carlos Eduardo Zavala"
+     }
+    ]
+   },
+   {
+    "participacao": "Agravante",
+    "nome": "Anval Incorporações e Empreendimentos Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Carlos Eduardo Zavala"
+     }
+    ]
+   },
+   {
+    "participacao": "Agravado",
+    "nome": "O Juizo",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Condomínio Pró-Indiviso do Shopping Center Recife",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Pedro Menezes Dantas"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Brookfield Brasil Shopping Centers Ltda",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Fundação dos Economiários Federais - Funcef",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Guantera Empreendimentos e Participações Ltda",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Administradora Shopping Patio Paulista Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Ronny Hosse Gatto"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Carlos Eduardo Martinussi"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Spe Mônaco Participações S.a",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Administradora Natal Shopping Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Humberto Rossetti Portela"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Humberto Rossetti Portela"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Igor Goes Lobato"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Trench, Rossi e Watanabe Advogados",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Marcio de Souza Polto"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Gledson Marques de Campos"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Apa Confecções Ltda",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Totvs S/A",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Fernando Denis Martins"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Maria do Perpétuo Socorro Maia Gomes"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Banco Tricury S A",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Carlos Eduardo Lopes"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Marco de Albuquerque da Graça E Costa"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Telefônica Brasil S.a",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Flavio Mendonça de Sampaio Lopes"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Nova Srm Administração de Recursos e Financeiros S.a",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Cristiano Trizolini"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Fabio de Alencar Karamm"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Itaú Unibanco S/A",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Paulo Roberto Joaquim dos Reis"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Daniel de Souza"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Estado de São Paulo",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Companhia Zaffari Comércio e Industria",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Patrícia Watanabe"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Guilherme Queirolo Feijó"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "8-8 Confecções Eireli",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Marcio de Souza Polto"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Gledson Marques de Campos"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Smart & Charm Comercio Exterior Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Rodrigo Pereira Lira"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Daniela Martin Lopes Oliveira"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Daniel Dorsi Pereira"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Camila Borgonovi Silva Barbi"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Condomínio do Shopping Abc",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Humberto Rossetti Portela"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Humberto Rossetti Portela"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Igor Goes Lobato"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Linx Sistemas e Consultoria Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Bruno Henrique de Oliveira Vanderlei"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Bruno Henrique de Oliveira Vanderlei"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Bruno Henrique de Oliveira Vanderlei"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Art Mille Artefatos de Couro Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Ricardo Ferreira Cassilhas"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Zizical Industria e Comercio de Calçados Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Ricardo Ferreira Cassilhas"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Rodi Comércio e Confecção de Embalagens Eirele-me",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Vagner Aparecido Alberto"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Caio Barroso Alberto"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "CONDOMINIO DP PATIO BRASIL  SHOPPING",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Ivo Teixeira Gico Junior"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Multi-Brasil Indústria e Comércio Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Mauro Yutaka Aida"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Cristian Gaddini Munhoz",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Cristian Gaddini Munhoz"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Mauro Kimio Matsumoto Ishimaru"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Governo do Distrito Federal",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Rodrigo Alves Chaves"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Pricewaterhousecoopers Corporate Finance & Recovery Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Alessandra Pires Fiche de Oliveira"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "São Joaquim Administração e Participação Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Ricardo Negrao"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Procuradoria do Município de Jundiaí",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Andre Lisa Biassi"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Procuradoria Geral do Estado do Rio Grande do Sul",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "João Carlos Sejanes Fabres"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Consórcio Empreendedor Shopping Granja Viana",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Ricardo Negrao"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Erivaldo Mello de Oliveira Lima",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Igor Goes Lobato"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Shopping São José Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Benoit Scandelari Bussmann"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Banco Bradesco S/A",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Marcio Perez de Rezende"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Claro S/A.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Jose Henrique Cançado Gonçalves"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Município de Ribeirão Preto",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Sumaia Popiolek Sfredo"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Condomínio Civil do Shopping Center Iguatemi Campinas",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Sergio Vieira Miranda da Silva"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Lobo e Lira ADVS.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Sergio Vieira Miranda da Silva"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Paulo Ferreira Chor"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Municipio de Natal",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Priscilla Maria Martins Pessoa Guerra"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Maxinvestor Fundo de Investimento Em Direitos Creditorios Nao Padronizados Multissetorial Lp",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Mauro Wilson Alves da Cunha"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Mauro Wilson Alves da Cunha"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Lume Serv. e Eng. Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Felipe Alves Moreira"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Estado de Minas Gerais",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Sarah Pedrosa de Camargos Manna"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Mph Empreendimentos Imobiliários Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Helio Pinto Ribeiro Filho"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Wander de Paula Rocha Junior"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Mc Mall Properties S/A",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Jailson Vieira de Souza Alves",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Ligia Maria Caruso Thomaz da Silva"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Agti Empreendimentos",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Guilherme Guaitolini"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Guilherme Guaitolini"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Rodi Com. e Conf. de Embalagens Eireli",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Caio Barroso Alberto"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Alex Moreira dos Santos"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Shopping Centers Iguatemi S/A",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Priscila Kelly Braga Brasileiro"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Bárbara Ellen Vasconcelos Nogueira"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Visel Vig. e Seg. Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Nelson Lombardi Junior"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Estado de Pernambuco",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Luciana Espíndola Azevedo"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Elaine Bortoleti de Lima",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Diego Gonçalves de Abreu"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Verediana Patricia Sia da Silva"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Multiplan Empreendimentos Imobiliários S.a.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Helio Pinto Ribeiro Filho"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Wander de Paula Rocha Junior"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Consórcio Empreendedor do Shopping Patio Higienópolis",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Rocha, Scuracchio e Andreoli Sociedade de Advogados",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "André Andreoli"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Sc2 Shopping Rio Poty Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Alberto Elias Hidd Neto"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Lucas de Melo Souza Veras"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Cond. Shopping Center Ibirapuera e outra",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Dalter Mallet Monteiro de Oliveira"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Roberto Bernardes de Carvalho Filho"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Centrais Eletricas do Pará S/A - Celpa",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Rogerio Zampier Nicola"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Município do Rio de Janeiro",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Cláudia Maria Monteiro de Castro Sternick"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Ramayanne da Silva Bicalho",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Ramayanne da Silva Bicalho"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Flávia Pollyanna Oliveira Sampaio",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Ramayanne da Silva Bicalho"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Escritório Central de Arrec. e Dist.-Ecad",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Rodrigo Kopke Salinas"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Juliana Santos Vilela"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Luiza Edna Ferreira Soares",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Cecilia Soares Campos"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Palladium ADM. de Shopping Centers Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Michel Guerios Netto"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Michel Guerios Netto"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Cond. Civil do Shop. Center Tacaruna",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Anne Karenine Santa Cruz"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Cons. Emp. do Shopping Campo Grande - Fase",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Letícia Garcia Cunha"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Paissandu Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Marcelo Godoy da Cunha Magalhães"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "São Joaquim S/A Adm. e Part.(prop.do Shopping Sp Market)",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Ricardo Negrao"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Companhia Metrô Norte",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Thaise Marcele Rosendo"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Five Jeans Conf. Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Claudia Yu Watanabe"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Light Serv. de Elet. S.A.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Gustavo Antonio Feres Paixão"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "IDH Ind. e Com. de Roupas Ltda.",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Mac Clem Ind. e Com. de Conf. Ltda.",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Marcolin Indústria Têxtil Ltda",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Textil Jurua Eireli",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Cotton Star Industrial Ltda. – Atual Denominação de Cotton Star Confecções Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Isocley Bossi"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Isla Confecções e Comércio de Roupas Ltda.",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Cond. do Bourbon São Paulo",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Patrícia Watanabe"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Mc & Mc Camisaria Eirelli",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Cristina Taddei Herculano"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Fábio de Mello Pellicciari"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Fundo de Inv. em Dir. Cred. da Indústria Exodus Institucional",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Cristiano Trizolini"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Fabio de Alencar Karamm"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Viviane Silva Batista",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Gicelle Barbosa Rebollo"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Air Clean Ar Condicionado e Refrigeração Ltda. – Me",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Danilo Franco de Oliveira Pioli"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Rodrigo Garceis Rodrigues"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Center Norte Sa.construcao,empreendimentos,adm. e Part.",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Daniela Biazzo Melis Kauffmann"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Maria Carolina da Silva Miranda",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Maisa Oviedo Milandri"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Ert Confecções Ltda Epp",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Desiree Sanchez Del Castillo Bravo de Chaby"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Desiree Sanchez Del Castillo Bravo de Chaby"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Montserrat Sanches Del Castillo",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Jundiaí Shopping Center Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Helio Pinto Ribeiro Filho"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Wander de Paula Rocha Junior"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Pires, Fabiano e Marques Soc. de ADVS.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Jean Dornelles"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Jean Dornelles"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Laura da Silva"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Blue Bay Comercial Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Alberto Diwan"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "MPH Emp. Imob. Ltda. e outra",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Wander de Paula Rocha Junior"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Bruna Gomes dos Santos"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Riomar Shopping Fortaleza S/A",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Beatriz Chaves Bittencourt de Albuquerque"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Beatriz Chaves Bittencourt de Albuquerque"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Gráfica Kratos Ltda - M.e.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Michael Simon Herzig"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Rocha, Scuracchio e Andreoli Soc. de ADVS",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "André Andreoli"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Rubens de Oliveira Rocha"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Rafael Ribeiro Cunha",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Marleide Tavares Viana"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Cristiano Carvalho Dantas da Silva",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Marleide Tavares Viana"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Cons. Empreend. do Shopping Granja Vianna",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Ricardo Negrao"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Ralm Indústria e Comércio de Malhas Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Alessandra Machado de Andrade Zuin"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Confecções Righeto Pastre Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Alessandra Machado de Andrade Zuin"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Maria Luciana Alves da Silva",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Adson José Alves de Farias"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Michel Oliveira de Souza",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Alessandro Anilton Maia Nonato"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Trend For You Indústria e Comércio de Vestuários Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Ricardo Dias Trotta"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "MULTIPLAN EMPREENDIMENTOS IMOBILIÁRIOS S/A, MPH EMPREENDIMENTOS IMOBILIÁRIOS LTDA",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Wander de Paula Rocha Junior"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "JUNDIAI SHOPPING CENTER LTDA",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Wander de Paula Rocha Junior"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Caputo, Bastos e Serra Advogados",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Gustavo Henrique Caputo Bastos"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Pwc Serviços Corporativos Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Heloise Moraes Souza"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Alessandra Pires Fiche de Oliveira"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Nova Galleria Emp. Imob. Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Sergio Vieira Miranda da Silva"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Gabriela Cristina Monteiro"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Denally Cesar Silva de Lima",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "José Haran de Brito Veiga Pessoa"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Daniel José de Brito Veiga Pessoa"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "RSM Brasil Cons. Assoc. Soc. Simples Ltda.",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Cond. Itaúpower Shopping",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "João Gilberto Freire Goulart"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Cristiano Silva Colepicolo"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Cristiano Silva Colepicolo"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Elisete do Carmo Barbosa",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Rodrigo de Barros Vedana"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Ligia Maria Caruso Thomaz da Silva"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Oi S/a.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Rafael Bittencourt Licurci de Oliveira"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Fernanda Santos Brusau"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Heloisa Costa da Silva",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Rodrigo VIeira de Mello",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Evandro Luis Luccarelli Forti"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Zilla Maria Torres"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Mayrla Cidrack do Vale Lucena Alves",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Elke Castelo Branco Lima"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Bruna Lourena Mendes do Nascimento",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Elke Castelo Branco Lima"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Gislane Nobre Rodrigues",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Elke Castelo Branco Lima"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Kerlison Italo Silva",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Marcos Alcindo de Godoi Moraes"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Jefferson Ithamar Fernandes Franco",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Eduardo Silveira Frade"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Cubo Mentoring Treinamento e Consultoria Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Renata Maria Baptista Cavalcante"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Renata Maria Baptista Cavalcante"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Renata Maria Baptista Cavalcante"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Renata Maria Baptista Cavalcante"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Renabian Prestadora de Serviços Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Gisele Cristina Dias Moraes"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Rssc Shopping Centers S.a.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Diogo Brito Camara Gonçalves"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "SHOPPING CENTERS IGUATEMI S/A",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Adna Martins Santos"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Isabela Cristina Silva"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Maria José Pereira",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Raquel Carvalho Menezes"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Marcelo Winther de Castro"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Ibanez de Oliveira",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Raquel Carvalho Menezes"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Karen Cristiane Grisotto",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Raquel Carvalho Menezes"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Equatorial Maranhão Dist. de Energia S/A.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Rogerio Zampier Nicola"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Gabrielly de Souza Modesto",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Raquel Marcos Ferrari"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Marina Gomes da Silva Pardinho Silveira"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "RSM Brasil Auditores Independentes S.A.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Márcio Muneyoshi Mori"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Silvia Maria Porto"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Carolina Fernanda de Moura",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Vilja Marques Asse"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "O Município de São José do Rio Preto",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Daniele Barbosa Rebello",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Aguinaldo Freitas Correia"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Carolini Alves de Souza Siqueira",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Donizeti Aparecido dos Santos"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Brenda Galindo Santos"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Sindicato dos Empregados no Comércio de São Paulo",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Robson Eduardo Andrade Rios"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Marcello D`aguiar"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Carolina Alves de Souza Siqueira",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Donizeti Aparecido dos Santos"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Brenda Galindo Santos"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Basilio Sociedade de Advogados",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "João Augusto Basilio"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Deloitte Touche Tohmatsu Consultores Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Claudio Mauro Henrique Daólio"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Condomínio Civil do Shopping Center Tacaruna",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Anne Karenine Santa Cruz"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Rosane Correia de Lima Durão"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Cons. Emp. do Shopping Pátio Higienópolis",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Ronny Hosse Gatto"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Carlos Eduardo Martinussi"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Brenda Maria Almeida dos Anjos",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Sara Caroline de Andrade Costa"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Deise Cristina Gomes",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Sara Caroline de Andrade Costa"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Idália Pereira de Jesus",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Jonas das Neves Pereira",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Leonardo Henrique Montalvão de Souza",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Sara Caroline de Andrade Costa"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Milena Cristina da Silva",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Thallyta Raphaella da Silva",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Sara Caroline de Andrade Costa"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Severina Elania Victor da Silva",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Nilson Mineo Morisava"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Ribeiro Filho, Pires Oliveira Dias e Freire Advogados",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Wander de Paula Rocha Junior"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Unp Negócios e Participações Ltda",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Gabriel Pereira Garcia"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Francisco Matias daSilva Junior",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Abadio Ferreira da Silva"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Samira de Castro"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Victor Soares da Silva",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Leonardo Eugenio Simões de Lima"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Estado do Rio de Janeiro",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "João Marcelo Gaio Souza"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Procuradoria Geral do Estado do Paraná",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Ageu Lima de Souza",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Antonio Augusto Martins Manhaes"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Estado de Goiás",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "SC2 Maranhão LOc. de Centros Comerciais S.A.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Jorge Rachid Mubarack Maluf Filho"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Jose Luiz Fernandes Gama"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Excelia Consultoria Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Maria Isabel Vergueiro de Almeida Fontana"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Amanda Centorbi Correa",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Cristiane Heredia Sousa"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Flaviane Carvalho Martini",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Cristiane Heredia Sousa"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Talita Gonçalves Lima",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Cristiane Heredia Sousa"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Lais Vicente Assenjo",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "União Federal - Prfn",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Kilty Bag Confecções de Couro Ltda. Soc. Advogados: Diego de Oliveira Camara",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Bruno Cezario Alves"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Nildo Barbosa Silva",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Elina Alves da Silveira Tobias"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Fernando de Castro Neves"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Verediana Patricia Sia da Silva"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Fernando Fernandes Coutinho",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Raquel Rodrigues Gomes Reis"
+     },
+     {
+      "funcao": "Advogada",
+      "nome": "Verediana Patricia Sia da Silva"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Lohayne Ribeiro da Silva",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Caire Lobo Monteiro de Paiva"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Nediezia Evellyn de Brito Ferreira",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Ricardo Grossi Rocha"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Matheus de Barros Rodrigues Sales Bessa"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Condomínio Shopping Center Ibirapuera",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Dalter Mallet Monteiro de Oliveira"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Roberto Bernardes de Carvalho Filho"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Daniele Machado Marcolino",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Verediana Patricia Sia da Silva"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Adriano de Lazari Araújo",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Fernando de Castro Neves"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Viviane Aparecida Pereira da Silva",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Thales Gomes dos Santos",
+    "representantes": [
+     {
+      "funcao": "Advogada",
+      "nome": "Gicelle Barbosa Rebollo"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessada",
+    "nome": "Larissa de Oliveira Alves",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Matheus Henrique Furtunato Gonçalves"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Carla Lima Lopes de Oliveira",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Fernando de Castro Neves"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Gustavo Barbosa Vitorino",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Eneas de Oliveira Marques"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Egberto Pereira Guitarrari"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Silverio Advogados",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Ricardo Leal de Moraes"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Jéssica Yasmin Silva do Amaral",
+    "representantes": []
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Mwlbs Holding Ltda.",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "João Gabriel Menezes Faria"
+     },
+     {
+      "funcao": "Advogado",
+      "nome": "Vitor de Menezes Venancio Martins"
+     }
+    ]
+   },
+   {
+    "participacao": "Interessado",
+    "nome": "Jean Cristopher Gonçalves de Melo",
+    "representantes": [
+     {
+      "funcao": "Advogado",
+      "nome": "Jean Cristopher Gonçalves de Melo"
+     }
+    ]
+   }
+  ]
  }
 ]
