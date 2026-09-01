@@ -194,12 +194,18 @@ def consultar(sessao, numero):
         sessao.get(f"{BASE}/{sistema}/open.do", headers=HEADERS, timeout=40)
         params = {
             "conversationId": "",
+            "paginaConsulta": "0",
             "cbPesquisa": "NUMPROC",
             "numeroDigitoAnoUnificado": seq_dv_ano,
             "foroNumeroUnificado": foro,
+            # cpopg (1º grau) usa dadosConsulta.*; cposg (2º grau) usa
+            # dePesquisaNuUnificado. Enviar os dois é inócuo.
             "dadosConsulta.valorConsultaNuUnificado": digitos,
             "dadosConsulta.valorConsulta": "",
             "dadosConsulta.tipoNuProcesso": "UNIFICADO",
+            "dePesquisaNuUnificado": digitos,
+            "dePesquisaNuUnificadoFoco": "true",
+            "dePesquisa": "",
             "tipoNuProcesso": "UNIFICADO",
         }
         r = sessao.get(
