@@ -231,6 +231,24 @@ def consultar(sessao, numero):
                     )
                     soup = BeautifulSoup(r2.content, "html.parser")
 
+        # página "Selecione o processo" (processo com incidentes): rádios
+        # processoSelecionado carregam o código; o 1º é o processo principal
+        if not soup.find(id="tableTodasPartes") and not soup.find(
+            id="tablePartesPrincipais"
+        ):
+            radios = soup.select('input[name="processoSelecionado"]')
+            if radios:
+                resultado["ocorrencias_listadas"] = len(radios)
+                codigo = radios[0].get("value", "")
+                if codigo:
+                    r3 = sessao.get(
+                        f"{BASE}/{sistema}/show.do",
+                        params={"processo.codigo": codigo},
+                        headers=HEADERS,
+                        timeout=60,
+                    )
+                    soup = BeautifulSoup(r3.content, "html.parser")
+
         resultado["metadados"] = coletar_metadados(soup)
         resultado["partes"] = parse_partes(soup)
 
