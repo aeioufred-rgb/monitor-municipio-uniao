@@ -2,6 +2,12 @@ name: Consulta pontual de partes (e-SAJ)
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - claude/partes-advogados-processos-fz1e8o
+    paths:
+      - scripts/consulta_partes_esaj.py
+      - .github/workflows/consulta-partes.yml
 
 permissions:
   contents: read
