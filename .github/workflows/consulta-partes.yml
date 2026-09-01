@@ -10,7 +10,7 @@ on:
       - .github/workflows/consulta-partes.yml
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   consulta:
@@ -36,3 +36,14 @@ jobs:
           name: partes-resultado
           path: partes_resultado.json
           if-no-files-found: ignore
+
+      - name: Grava resultado no branch
+        if: always()
+        run: |
+          if [ -f partes_resultado.json ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add partes_resultado.json
+            git commit -m "Grava resultado da consulta de partes [skip ci]" || echo "nada a commitar"
+            git push
+          fi
